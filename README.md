@@ -8,9 +8,10 @@ Our project consists of developing a Smart-Cam. This surveillance camera, based 
 This project is built using the python language, TensorFlow and Dlib for machine learnin models, OpenCV for Image  processing, Multiprocessing for optimization and Tkinter for the GUI.
 
 # The project was divided into three parts
-
-Face Recognition Algorithm
 ****************************************
+
+*Face Recognition Algorithm
+
 
 Built using Dlib's highly accurate face recognition model, OpenCV and Multiprocessing.
 
@@ -18,11 +19,11 @@ Through this algorithm, our Smart-cam is capable of detecting and  identifying t
 
 In case of unknown person, the camera captures an image of their face and saves it in a specified folder.
 
-Mask Detection Algorithm
-***************************************
+*Mask Detection Algorithm
+
 Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in real-time video streams to ensure safety.
 
-Door State Detection Algorithm
-**************************************
+*Door State Detection Algorithm
+
 Using a trained Keras/TensorFlow model, OpenCV and Computer Vision concepts,
 this algorithm is capable of detecting the Door state (closed/open).
