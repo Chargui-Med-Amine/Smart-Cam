@@ -29,9 +29,10 @@ Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learni
 Using a trained Keras/TensorFlow model, OpenCV and Computer Vision concepts,
 this algorithm is capable of detecting the Door state (closed/open).
 *********************************
-##Team
-Project Manager : Mohamed Amine Chargui 
-***************
+## Team
+*****************
+*Project Manager : Mohamed Amine Chargui 
+
 Face Recognition team : 
 * Team leader : Syrine Silliti
 * Ahlem Hamdaoui 
