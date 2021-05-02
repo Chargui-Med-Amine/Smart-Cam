@@ -1,6 +1,11 @@
 # Smart-Cam
 This project is part of the "Association Robotique Ensi" ARE's internal projects for 2020/2021. It can be deployed in public spaces such as classrooms and companies.
 **********************************
+
+
+https://user-images.githubusercontent.com/60717301/116820372-9e903280-ab6c-11eb-884a-040cd87c7f1b.mp4
+
+
 ## Problematic
 Normal surveillance cameras are passive, they require someone to look through them. Artificial intelligence is giving surveillance cameras digital brains to match their eyes, letting them analyze live video with no human intervention.
 ## Description
@@ -31,21 +36,21 @@ this algorithm is capable of detecting the Door state (closed/open).
 *********************************
 ## Team
 *****************
-*Project Manager : Mohamed Amine Chargui 
+* Project Manager : Mohamed Amine Chargui 
 
-Face Recognition team : 
+### Face Recognition team : 
 * Team leader : Syrine Silliti
 * Ahlem Hamdaoui 
 * Ahmed Dardouri 
 * Emna Hmani
 
-Door state detection team
+### Door state detection team :
 * Team leader : Yosser Tlili
 * Wajdi Elabbassi
 * Wissal Sakhri
 
 
-Face Masks detection team:
+### Face Masks detection team:
 * Team leader : Koussay Jhimi
 * Amine Henchi
 * Rayen Chenbeh
